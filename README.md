@@ -1,6 +1,6 @@
 My First HTML CSS Project
 
-This is a simple website created using HTML and CSS for practice.
+This is a simple website created using HTML and CSS.
 
 Features
 
@@ -8,6 +8,7 @@ Features
 - Navigation menu
 - Images and content sections
 - Contact button
+- CSS hover effects for buttons
 
 Technologies Used
 
@@ -20,4 +21,4 @@ This project was created to practice basic frontend development concepts like la
 
 Author
 
-Jeevitha Sri
+Jeevitha Sri V
