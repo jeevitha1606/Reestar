@@ -1,0 +1,58 @@
+li{
+    display: inline-block;
+    margin-right: 20px;
+}
+nav{
+    text-align: center;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    background-color: black;
+    color: antiquewhite;
+}
+li:hover{
+    color: grey;
+    cursor: pointer;
+}
+.image{
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    margin-top: 20px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 10px;
+    
+
+}
+h4:hover{
+    background-color: black;
+    color: antiquewhite;
+    display: inline-block;
+    cursor: pointer;
+}
+   p,h4{
+    margin: 0px;
+    margin-bottom: 3px;
+   }
+div{text-align: center;
+}
+
+.contact{
+    color: antiquewhite;
+    background-color: black;
+}
+.contact table{
+    margin: auto;
+}
+.contact button{
+    width: 400px;
+    background-color: blueviolet;
+    color: black;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+button:hover{
+    cursor: pointer;
+}
